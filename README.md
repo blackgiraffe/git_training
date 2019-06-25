@@ -9,7 +9,7 @@ Basic actions to perform on your working copy:
 
 ## Make the project evolve
 Basic actions to track your modification
-- **diff**: check the diff between your local changes and a                   ted revision
+- **diff**: check the diff between your local changes and a committed revision
 - **add**: track unversionned file, or stage a file for a commit
 - **commit**: save modifications in the repository
 - **branch**: create, delete branches, show all existing branches
