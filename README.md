@@ -21,3 +21,6 @@ Basic actions to synch the remote repository and the working copy
 - **fetch**: retreive the new commits from the remote repository but DO NOT merge them into your local branch
 - **merge**: after a fetch, when you want to get the modifications retreived, run a metge to apply changes to your local branch
 - **pull**: does a *fetch* followed by a *merge*. It automatically retreives and merges the new commits from the remote repository
+
+## Examples of use
+To be filled...
