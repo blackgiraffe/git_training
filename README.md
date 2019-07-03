@@ -24,3 +24,7 @@ Basic actions to synch the remote repository and the working copy
 
 ## Examples of command use
 To be filled...
+
+write somthing
+
+bad stuff
