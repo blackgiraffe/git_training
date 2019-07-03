@@ -23,4 +23,4 @@ Basic actions to synch the remote repository and the working copy
 - **pull**: does a *fetch* followed by a *merge*. It automatically retreives and merges the new commits from the remote repository
 
 ## Examples of command use
-To be filled...
+To be filled...write wsx
